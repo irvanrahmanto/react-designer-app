@@ -1,0 +1,46 @@
+[
+    {
+        "mal_id": 21,
+        "title": "Victoria Adams",
+        "year": 2015,
+        "image": "https://images.unsplash.com/photo-1519895609939-d2a6491c1196?q=80&w=2788&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "score": 8.71,
+        "synopsis": "Victoria Adams, also known as Victoria Beckham, is a renowned British singer, fashion designer, and television personality. Born on April 17, 1974, she gained international fame as a member of the Spice Girls, the best-selling female group of all time, where she was known as 'Posh Spice.' After the Spice Girls, she pursued a solo music career before transitioning into fashion design. Victoria launched her own successful fashion label, which has been praised for its high-end, chic designs. She is married to former footballer David Beckham, and they have four children together. Victoria is known for her sophisticated style, business acumen, and influential presence in the fashion industry."
+    },
+    {
+        "mal_id": 20,
+        "title": "Lucas Hernandez",
+        "year": 2018,
+        "image": "https://images.unsplash.com/photo-1528892952291-009c663ce843?q=80&w=2363&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "score": 8.71,
+        "synopsis":
+            "Lucas Hernandez is a professional French footballer born on February 14, 1996. He primarily plays as a defender, capable of performing as both a center-back and left-back. Hernandez began his professional career with Atlético Madrid, where he developed a reputation for his defensive skills and versatility. In 2019, he transferred to Bayern Munich, where he continued to showcase his talents and contribute to the team's successes, including winning the Bundesliga and the UEFA Champions League. Hernandez is also a key player for the French national team and was part of the squad that won the 2018 FIFA World Cup. Known for his robust defending, tactical awareness, and physicality, Hernandez is regarded as one of the top defenders in European football."
+    },
+    {
+        "mal_id": 269,
+        "title": "Ryan Reynolds",
+        "year": 2014,
+        "image": "https://plus.unsplash.com/premium_photo-1675129779554-dc86569708c8?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "score": 8.71,
+        "synopsis":
+            "Ryan Reynolds is a Canadian actor, producer, and entrepreneur, born on October 23, 1976. He is widely recognized for his versatility in both comedic and dramatic roles. Reynolds gained early fame with roles in television series like 'Two Guys and a Girl' and films such as 'Van Wilder: Party Liaison.' He achieved significant success and a global following for his portrayal of the Marvel anti-hero Deadpool in the 'Deadpool' film series, which highlighted his sharp wit and comedic timing."
+    },
+    {
+        "mal_id": 31964,
+        "title": "Novac Djokovic",
+        "year": 2016,
+        "image": "https://images.unsplash.com/photo-1502823403499-6ccfcf4fb453?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "score": 8.71,
+        "synopsis":
+            "Novak Djokovic is a Serbian professional tennis player, born on May 22, 1987. He is considered one of the greatest tennis players of all time, holding numerous records in the sport. Djokovic has won multiple Grand Slam titles, including the Australian Open, French Open, Wimbledon, and the US Open. Known for his exceptional flexibility, endurance, and all-court game, he has consistently been at the top of the ATP rankings, often battling with rivals Roger Federer and Rafael Nadal for the No. 1 spot"
+    },
+    {
+        "mal_id": 31965,
+        "title": "Ana De Armas",
+        "year": 2016,
+        "image": "https://plus.unsplash.com/premium_photo-1668895511243-1696733f4fcb?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "score": 8.71,
+        "synopsis":
+            "Ana de Armas is a Cuban-Spanish actress born on April 30, 1988. She began her acting career in Cuba and gained early fame with the Spanish film 'Una rosa de Francia' (2006). De Armas moved to Spain and starred in the popular teen drama 'El Internado' from 2007 to 2010, which boosted her profile significantly."
+    }
+]
